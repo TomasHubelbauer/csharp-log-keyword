@@ -8,3 +8,9 @@ int ClamToPositive(int positiveOrNegative) {
   return positiveOrNegative >= 0 ? positiveOrNegative : 0;
 }
 ```
+
+## Links
+
+- https://marcinjuraszek.com/2017/05/adding-matt-operator-to-roslyn-part-1.html
+- https://marcinjuraszek.com/2017/05/adding-matt-operator-to-roslyn-part-2.html
+- https://marcinjuraszek.com/2017/06/adding-matt-operator-to-roslyn-part-3.html
