@@ -1,4 +1,4 @@
-# C# `log` keyword
+# Roslyn `log` Keyword
 
 An experiment to see if I'll be able to bend Roslyn to introduce a new keyword `log` that works like this:
 
